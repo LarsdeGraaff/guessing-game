@@ -21,6 +21,8 @@ public class MyUI extends UI {
     int kans = 3;
     int randomGetal = randomGetal();
 
+
+
     @Override
     protected void init(VaadinRequest vaadinRequest) {
         final VerticalLayout layout = new VerticalLayout();
